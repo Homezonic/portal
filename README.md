@@ -5,7 +5,7 @@ Using HTML Template from Colorib for the look and feel - Thanks to them for that
 
 Using PHP for the backend Development
 
-#Features and Segments of user dashboard.
+# Features and Segments of user dashboard.
 
 Dashboard
 Data Menu - Buy Data | Order History | Data Prices
@@ -17,7 +17,7 @@ My Account - Fund Wallet | Query Payment | Update Profile | Funding History | Al
 
 
 
-#Features and Segment of Admin Dashboard
+# Features and Segment of Admin Dashboard
 
 Dashboard with all stats (Users, All Data Purchased , Airtime, Cable and Electricity, Wallet Balance and Save Balance)
 Data Pricing
